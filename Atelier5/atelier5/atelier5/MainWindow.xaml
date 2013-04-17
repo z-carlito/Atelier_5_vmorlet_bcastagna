@@ -1,0 +1,8 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:atelier5" xmlns:View="clr-namespace:atelier5.View" x:Class="atelier5.MainWindow"
+        Title="MainWindow" Height="350" Width="525">
+    
+        <View:Vue />
+</Window>
